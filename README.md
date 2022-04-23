@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=20px> </a>
+<a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a>
 
 
 ## Introduction:
@@ -12,7 +12,7 @@
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1NEbqpM6J6UkmHN_J6NsgOhKvDU6fkfnli4OIg1lh-pk/edit?usp=sharing"> ppt link here </a>
+  <a href="https://cutt.ly/H365PPT"> PPT link here </a>
   
   
 ## Table of Contents:
@@ -34,4 +34,4 @@ Team Name: NP Devs
 
 
 ### Made at:
-<a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=20px> </a>
+<a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a>
