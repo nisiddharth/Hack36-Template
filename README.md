@@ -1,36 +1,37 @@
-<h1 align="center">Hack36 Template Readme</h1>
-<p align="center">
+
 </p>
 
 <a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a>
 
 
 ## Introduction:
-  Intro of the project
+  we have created an environment where in various committees of the college can register their candidates and a normal user, after signing up can look for whatever event he wants to organise and henceforth book according to his desired budget, and the event date.
+This gives students real world exposure and sharpen their skill sets and rather acknowledge their hobbies as future carrier opportunities.
   
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  <a href="https://drive.google.com/file/d/1lpwQrsJ7rg3gmj90r6uvwHb7VHxZaNQR/view?usp=sharing">Video link</a>
   
 ## Presentation Link:
-  <a href="https://cutt.ly/H365PPT"> PPT link here </a>
+  <a href="https://docs.google.com/presentation/d/1vnYqRhnFyaEm0X90SEKD-EbRm_AFWbRVssls6BXUBEY/edit?usp=sharing"> PPT link here </a>
   
   
-## Table of Contents:
+
 
 ## Technology Stack:
-  1) Flutter
-  2) Google Collab
-  3) JavaFX
-  4) Machine Learning
+  1) NodeJs
+  2) MongoDB
+  3) Express
+  
   
 
 ## Contributors:
 
-Team Name: NP Devs
+Team Name: Big Coders
 
-* [Nishchal Siddharth Pandey](https://github.com/nisiddharth)
-* [Ashutosh Chitranshi](https://github.com/ashu12chi)
-* [Anushka Srivastava](https://github.com/Anushkaa-Srivastava)
+* [Saksham Saxena](https://github.com/saksham12022002)
+* [Apoorv Priyadarsh](https://github.com/apoorv-tech)
+* [Anshika Mishra](https://github.com/anshika20191099)
+* [Mradul Yadav](https://github.com/mradulyadav007)
 
 
 ### Made at:
